@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidForStudy.iml" filepath="$PROJECT_DIR$/AndroidForStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidforlistener/androidforlistener.iml" filepath="$PROJECT_DIR$/androidforlistener/androidforlistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidforlistener1/androidforlistener1.iml" filepath="$PROJECT_DIR$/androidforlistener1/androidforlistener1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidformenu/androidformenu.iml" filepath="$PROJECT_DIR$/androidformenu/androidformenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidforstresm/androidforstresm.iml" filepath="$PROJECT_DIR$/androidforstresm/androidforstresm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutchangeanni/layoutchangeanni.iml" filepath="$PROJECT_DIR$/layoutchangeanni/layoutchangeanni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectanimatorsimple/objectanimatorsimple.iml" filepath="$PROJECT_DIR$/objectanimatorsimple/objectanimatorsimple.iml" />
+    </modules>
+  </component>
+</project>

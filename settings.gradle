@@ -1,0 +1,1 @@
+include ':app', ':objectanimatorsimple', ':layoutchangeanni', ':androidforlistener', ':androidforlistener1', ':androidformenu', ':androidforstresm'
